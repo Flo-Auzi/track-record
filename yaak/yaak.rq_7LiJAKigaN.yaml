@@ -1,0 +1,44 @@
+type: http_request
+model: http_request
+id: rq_7LiJAKigaN
+createdAt: 2026-11-19T10:41:20.882055322
+updatedAt: 2026-11-19T10:45:14.136546965
+workspaceId: wk_by2hEF8pxn
+folderId: null
+authentication: {}
+authenticationType: null
+body: {}
+bodyType: null
+description: ''
+headers:
+- enabled: true
+  name: Authorization
+  value: ${[ secure(value='YENC_eUE0azNuQwHmZr45N3ZMIJTkr22jYH7CkKjik2+gmalCMtXz2ypDqXVB2Lw0DdHnhPEfE1+js7GnUbZA9HxVdOl+I9EyJs9nSDa2RTOKQa6WO84Mh6w4Q9tzU2QZVCAoXxc/rCnO2ZMC5D5d5j137DVug9JKa7+FiiLeGPR1VIo2HHE5GBzvVh6bqDjd96vmru9fhtQp5iIizcu0fAUee2+i2yFQU9XlraaKzhDMT6p1uYJkEPmInk5iI06rWkc8U5JMcDIrl/fPxwKxD0PIObU5Jnh1GD4A/e9sYciOsXDC/u1rWEwZyS1EEyFquQ8MKB2pZCaQSOwrWZkU+YjEY8LUAojd6Q48wNtg+6/BBgGVsTynkGBYrBHfT5ceKkNBWDABDXkzVBG0AtSQxjVD9I7pZP4HzC4eZh0m9i45hvnBYg9G7g==') ]}
+  id: sr9083S2P4
+- enabled: true
+  name: ''
+  value: ''
+  id: yzUFCCYBma
+method: GET
+name: ''
+sortPriority: -1795084880880.0
+url: https://api.spotify.com/v1/playlists/6G4l4GUIA9kEwoxNkm95hB
+urlParameters: []
+settingSendCookies:
+  enabled: false
+  value: true
+settingStoreCookies:
+  enabled: false
+  value: true
+settingValidateCertificates:
+  enabled: false
+  value: true
+settingFollowRedirects:
+  enabled: false
+  value: true
+settingRequestTimeout:
+  enabled: false
+  value: 0
+settingHttpVersion:
+  enabled: false
+  value: auto

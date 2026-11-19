@@ -1,0 +1,19 @@
+type: workspace
+model: workspace
+id: wk_by2hEF8pxn
+createdAt: 2026-11-19T10:40:52.811611022
+updatedAt: 2026-11-19T10:40:57.931557415
+authentication: {}
+authenticationType: null
+description: ''
+headers: []
+name: Track Record
+encryptionKeyChallenge: eUE0azNuQwHBDMFq/G4c8yPXHxCZmZNrRCNK1FmI14H2d3J7VvY3oBc8Kkx+5bY63+EbXOXCQ0wTdFCdGyXS4bTgUzfVctAFUE5uYLvTYdhXeWrJBCcVACOgYQN3MdgZ6aQ=
+settingValidateCertificates: true
+settingFollowRedirects: true
+settingRequestTimeout: 0
+settingRequestMessageSize: 67108864
+settingDnsOverrides: []
+settingSendCookies: true
+settingStoreCookies: true
+settingHttpVersion: auto
